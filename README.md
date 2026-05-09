@@ -1,6 +1,6 @@
-## About me
 
-## hey, i'm osama. frontend developer building web experiences with react and next.js.
+
+# hey, i'm osama. frontend developer building web experiences with react and next.js.
 
 ## 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@OsamaFed) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/OsamaFed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:osama.mohammed.work1@gmail.com) 
@@ -12,22 +12,10 @@
 ![](https://streak-stats.demolab.com/?user=OsamaFed&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=OsamaFed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=OsamaFed&theme=city_lights&no-frame=true&no-bg=true&margin-w=4)
+
 ---
 [![](https://komarev.com/ghpvc/?username=OsamaFed&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**OsamaFed/OsamaFed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
